@@ -2,6 +2,8 @@
 
 O objetivo do projeto é projetar e implementar dois geradores de sequências numéricas independentes utilizando contadores síncronos com Flip-Flops, alternando automaticamente a execução de ambas as sequências em um display hexadecimal.
 
+![Circuito Principal no Logisim](main.png)
+
 ## Visão Geral
 
 O projeto é dividido em dois subcircuitos principais interligados no circuito principal (main):
@@ -14,6 +16,6 @@ O projeto é dividido em dois subcircuitos principais interligados no circuito p
 
 ## Como Executar o Projeto
 
-1. Utilize o software Logisim ou acesse online o Logisim.app.
+1. Utilize o software Logisim ou acesse o site Logisim.app.
 2. Clique em File > Open e selecione o arquivo gerador-sequencias.circ.
 3. Para iniciar a simulação, ative o pulso de clock em Simulate > Ticks Enabled.
